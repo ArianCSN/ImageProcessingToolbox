@@ -22,7 +22,7 @@ The Image Processing Toolbox is a comprehensive GUI-based tool for performing va
 ## Installation
 1. Clone the repository:
    
-    git clone https://github.com/username/image-processing-toolbox.git
+    git clone https://github.com/ArianCSN/imageprocessingtoolbox.git
     
 2. Open MATLAB.
 3. Navigate to the cloned repository directory.
